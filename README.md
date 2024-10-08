@@ -34,4 +34,4 @@ Becoming a **Software Engineer at Google** while simultaneously growing as an **
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hanisntsolo/)
 - **Codeforces**: [My Codeforces Profile](https://codeforces.com/profile/hanisntsolo)
 - **GitHub**: [Explore my projects](https://github.com/hanisntsolo)
-- **Resume`**: [You reached here as recruiter](https://resume.hanisntsolo.com)
+- **Resume`**: [Click here! for my resume, if you reached here as a recruiter!](https://resume.hanisntsolo.com)
