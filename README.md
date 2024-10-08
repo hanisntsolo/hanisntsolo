@@ -13,7 +13,7 @@ In the next six months, I aim to sharpen my problem-solving skills, particularly
 - **Cloud & DevOps**: Docker, Kubernetes, Jenkins, Prometheus, AWS (ECS, S3)
 - **Databases**: MySQL, MariaDB, Elasticsearch
 - **Tools**: Git, Docker Compose, Filebeat, Bitwarden
-- **Competitive Programming**: Codeforces (currently at 630 rating, working on leveling up!)
+- **Competitive Programming**: Codeforces (max 863 rating, working on leveling up!)
 
 ### 🔧 Projects I'm Working On
 1. **Codeforces Lamp**: A tool to help competitive programmers, including Docker-based setups for modularity and ease of deployment.
