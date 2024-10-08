@@ -31,6 +31,7 @@ I'm currently expanding my knowledge and contributing to the tech community, foc
 Becoming a **Software Engineer at Google** while simultaneously growing as an **Engineering Manager** in big tech. I believe in pushing boundaries, and I’m preparing myself through coding practice, system design, and leadership development.
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/dhirendra-pratap-singh/)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hanisntsolo/)
 - **Codeforces**: [My Codeforces Profile](https://codeforces.com/profile/hanisntsolo)
 - **GitHub**: [Explore my projects](https://github.com/hanisntsolo)
+- **Resume`**: [You reached here as recruiter](https://resume.hanisntsolo.com)
