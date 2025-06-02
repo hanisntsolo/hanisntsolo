@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=hanisntsolo&color=blueviolet&label=YOU+ARE+VISITOR+NUMBER:&base=1000)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=hanisntsolo&color=blueviolet&label=YOU+ARE+VISITOR+NUMBER:&base=1000" alt="views"/></div>
 [![An image of @hanisntsolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanisntsolo)](https://holopin.io/@hanisntsolo)
 # 👋 Hi there, I'm Dhirendra Pratap Singh!
 
