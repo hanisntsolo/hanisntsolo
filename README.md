@@ -24,7 +24,7 @@ In the next six months, I aim to sharpen my problem-solving skills, particularly
 - **Competitive Programming**: Codeforces (max 863 rating, working on leveling up!)
 
 ### 🔧 Projects I'm Working On
-1. **Rippler**: An AI-powered code dependency analysis platform. You now know what if failing in your ecosystem by merging it with it.
+1. **Rippler**: An AI-powered code dependency analysis platform. You now know what is failing in your ecosystem when you onboard your services with us.
 2. **Codeforces Lamp**: A tool to help competitive programmers, including Docker-based setups for modularity and ease of deployment.
 3. **AutoCommitter**: A Python-based Dockerized application that keeps repositories automatically updated with commits.
 4. **Smart Bulb Control**: IoT project where I use the Tuya API to automate my smart home devices.
