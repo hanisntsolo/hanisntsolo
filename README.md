@@ -24,10 +24,11 @@ In the next six months, I aim to sharpen my problem-solving skills, particularly
 - **Competitive Programming**: Codeforces (max 863 rating, working on leveling up!)
 
 ### 🔧 Projects I'm Working On
-1. **Codeforces Lamp**: A tool to help competitive programmers, including Docker-based setups for modularity and ease of deployment.
-2. **AutoCommitter**: A Python-based Dockerized application that keeps repositories automatically updated with commits.
-3. **Smart Bulb Control**: IoT project where I use the Tuya API to automate my smart home devices.
-4. **The Resume Project**: Fork and host your own resume for free on GitHub and share it with the world.
+1. **Rippler**: An AI-powered code dependency analysis platform. You now know what if failing in your ecosystem by merging it with it.
+2. **Codeforces Lamp**: A tool to help competitive programmers, including Docker-based setups for modularity and ease of deployment.
+3. **AutoCommitter**: A Python-based Dockerized application that keeps repositories automatically updated with commits.
+4. **Smart Bulb Control**: IoT project where I use the Tuya API to automate my smart home devices.
+5. **The Resume Project**: Fork and host your own resume for free on GitHub and share it with the world.
 
 ### 💡 Open Source Contributions & Learning
 I'm currently expanding my knowledge and contributing to the tech community, focusing on open source projects and building tools that solve real-world problems. My journey also involves improving my algorithmic skills through daily challenges and contests on Codeforces.
